@@ -1,0 +1,20 @@
+appointment_id,patient_id,doctor_id,appointment_date,department,status
+AP001,HP001,DR01,2024-04-20,Cardiology,Completed
+AP002,HP002,DR02,2024-04-20,Neurology,Completed
+AP003,HP003,DR03,2024-04-21,Pediatrics,
+AP004,HP004,DR04,2024-04-21,Orthopedics,Completed
+AP005,HP005,DR02,2024-04-22,Neurology,Cancelled
+AP006,HP006,DR05,2024-04-22,Gynecology,Completed
+AP007,HP007,DR01,2024-04-23,Cardiology,Scheduled
+AP008,HP008,DR06,2024-04-23,General Medicine,Completed
+AP009,HP009,DR04,2024-04-24,Orthopedics,Completed
+AP010,HP010,DR02,2024-04-24,Neurology,
+AP011,HP011,DR05,2024-04-25,Gynecology,Completed
+AP012,HP012,DR01,2024-04-25,Cardiology,Completed
+AP013,HP013,DR06,2024-04-26,General Medicine,Scheduled
+AP014,HP014,DR04,2024-04-26,Orthopedics,Completed
+AP015,HP015,DR02,2024-04-27,Neurology,Completed
+AP016,HP016,DR05,2024-04-27,Gynecology,Cancelled
+AP017,HP017,DR01,2024-04-28,Cardiology,Completed
+AP018,HP018,DR06,2024-04-28,General Medicine,Completed
+AP001,HP001,DR01,2024-04-20,Cardiology,Completed
